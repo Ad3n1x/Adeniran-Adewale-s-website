@@ -134,6 +134,6 @@ main{
     color: white;
 }
 .SDI{
-    color: black;
-    text-decoration: none;
+    color: black !important;
+text-decoration: none !important;
 }
