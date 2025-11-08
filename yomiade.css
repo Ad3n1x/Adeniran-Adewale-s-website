@@ -55,11 +55,8 @@ header{
     color: white;
 }
 .yomi{
-    font-size: 80px;
-    /* font-family: 'Great Vibes', cursive; */
+    font-size: 4rem;
     font-weight: 700;
-    /* text-align: center; */
-    /* margin-top: 20px; */
     width: 100px;
 }
 .para{
@@ -83,10 +80,10 @@ header{
     border: none;
 }
 .df{
-    width: 400px;
-    height: 400px;
+    width: 15rem;
+    height: 15rem;
     border-radius: 50%;
-    margin-left: 50px;
+    /* margin-left: 50px; */
     margin-top: 20px;
 }
 main{
