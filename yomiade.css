@@ -19,9 +19,9 @@ nav {
     display: flex;
     flex-direction: row;
     align-items: center;
-     color: white !important;
-     font-size: 25px !important;
-     font-family: 'Times New Roman', Times, serif;
+    color: white !important;
+    font-size: 25px !important;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .AS {
@@ -36,42 +36,53 @@ nav {
     background-color: #070e1b;
 }
 
-.nav-items{
+.nav-items {
     color: white !important;
     font-size: 20px !important;
     font-family: 'Times New Roman', Times, serif;
 }
-.fgd{
+
+.fgd {
     justify-content: center !important;
 }
-.img1{
+
+.img1 {
     width: 20px;
     height: 20px;
 }
-header{
+
+header {
     background-color: #070e1b;
 }
-.yomi,.para,.yom{
+
+.yomi,
+.para,
+.yom {
     color: white;
 }
-.yomi{
+
+.yomi {
     font-size: 4rem;
     font-weight: 700;
     width: 100px;
 }
-.para{
+
+.para {
     font-size: 20px;
     /* text-align: center; */
     /* margin-top: 20px; */
     width: 350px;
 }
-.yom{
+
+.yom {
     font-size: 30px;
     /* text-align: center; */
     /* margin-top: 20px; */
     width: 150px;
 }
-.btn1,.btn2{
+
+.btn1,
+.btn2 {
     background-color: #ffffff;
     color: #070e1b;
     font-size: 20px;
@@ -79,64 +90,92 @@ header{
     border-radius: 30px;
     border: none;
 }
-.df{
+
+.df {
     width: 15rem;
     height: 15rem;
     border-radius: 50%;
     /* margin-left: 50px; */
     margin-top: 20px;
 }
-main{
-    background-color:#0a101e;
+
+main {
+    background-color: #0a101e;
 }
-.ct{
+
+.ct {
     color: #fec544;
     text-decoration: underline;
 }
-.info,.prof{
+
+.info,
+.prof {
     color: white;
 }
-.prof{
+
+.prof {
     width: 350px;
     font-size: 20px;
     justify-content: center;
     align-items: center;
-    color:#fec544;
+    color: #fec544;
 }
-.full-info{
+
+.full-info {
     width: 400px;
     color: gray;
 }
-.full{
+
+.full {
     color: gray;
 }
-.fd{
+
+.fd {
     color: #fec544;
     text-decoration: underline;
 }
-.img4{
+
+.img4 {
     align-items: center !important;
     justify-content: center !important;
     height: 200px;
     width: 200px;
 }
-.info1{
+
+.info1 {
     width: 500px;
     color: white;
 }
-.sd{
+
+.sd {
     color: white;
 }
-.full1{
+
+.full1 {
     color: white;
 }
-.full-info1{
+
+.full-info1 {
     color: white;
 }
-.SDI{
+
+.SDI {
     color: black !important;
-text-decoration: none !important;
+    text-decoration: none !important;
 }
-.asd{
+
+.asd {
     width: 2rem;
+}
+
+.fgf {
+    border: 2px solid white !important;
+    color: white !important;
+    box-shadow: none !important;
+}
+html, body {
+    scroll-behavior: smooth;
+}
+.fgg{
+    color: white !important;
 }
