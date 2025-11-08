@@ -164,7 +164,11 @@ main {
     color: black !important;
     text-decoration: none !important;
 }
-
+.SDI1 {
+    color: black !important;
+    text-decoration: none !important;
+    font-size: 15px;
+}
 .asd {
     width: 2rem;
 }
